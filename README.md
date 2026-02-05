@@ -29,7 +29,7 @@ Players go through different rounds, make guesses, and drink when they lose — 
 
 - **Framework:** React  
 - **Styling:** Tailwind CSS  
-- **Language:** JavaScript / TypeScript (depending on your setup)  
+- **Language:** JavaScript  
 - **Deployment:** Vercel  
 
 ---
